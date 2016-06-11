@@ -6,6 +6,4 @@ describe('Array', function() {
     var arr = [];
     assert.equal(arr.length, 0);
   });
-
-  // We can have more its here
 });
