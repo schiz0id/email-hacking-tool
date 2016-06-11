@@ -1,6 +1,10 @@
 # Testing on headless CI systems
 # http://electron.atom.io/docs/tutorial/testing-on-headless-ci/
 
+language: node_js
+node_js:
+  - "6.1.0"
+
 addons:
   apt:
     packages:
