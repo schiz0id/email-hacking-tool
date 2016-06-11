@@ -31,5 +31,8 @@
   "homepage": "https://github.com/schiz0id/email-hacking-tool#readme",
   "dependencies": {
     "electron-prebuilt": "^1.2.2"
+  },
+  "devDependencies": {
+    "electron-reload": "^1.0.0"
   }
 }

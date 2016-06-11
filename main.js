@@ -8,6 +8,8 @@ const {BrowserWindow} = electron;
 // be closed automatically when the JavaScript object is garbage collected.
 let win;
 
+require('electron-reload')(__dirname);
+
 function createWindow() {
   // Create the browser window.
   win = new BrowserWindow({width: 800, height: 600});
