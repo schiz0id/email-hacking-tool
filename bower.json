@@ -28,6 +28,7 @@
     "tests"
   ],
   "dependencies": {
-    "pure": "^0.6.0"
+    "pure": "^0.6.0",
+    "jquery-3.0.0.min": "https://code.jquery.com/jquery-3.0.0.min.js"
   }
 }
