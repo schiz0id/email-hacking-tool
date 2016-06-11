@@ -1,0 +1,30 @@
+{
+  "name": "email-hacking-tool",
+  "description": "An elite hacking tool to crack into the email accounts of your victims",
+  "main": "main.js",
+  "authors": [
+    "schiz0id"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "elite",
+    "hacking",
+    "hacker",
+    "hack",
+    "cracking",
+    "cracker",
+    "crack",
+    "email",
+    "e-mail",
+    "tool"
+  ],
+  "homepage": "https://github.com/schiz0id/email-hacking-tool",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
