@@ -4,6 +4,7 @@
   "description": "An elite hacking tool to crack into the email accounts of your victims",
   "main": "main.js",
   "scripts": {
+    "start": "node_modules/.bin/electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
