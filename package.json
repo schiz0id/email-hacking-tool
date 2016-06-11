@@ -1,0 +1,34 @@
+{
+  "name": "email-hacking-tool",
+  "version": "1.0.0",
+  "description": "An elite hacking tool to crack into the email accounts of your victims",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schiz0id/email-hacking-tool.git"
+  },
+  "keywords": [
+    "elite",
+    "hacking",
+    "hacker",
+    "hack",
+    "cracking",
+    "cracker",
+    "crack",
+    "email",
+    "e-mail",
+    "tool"
+  ],
+  "author": "schiz0id",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/schiz0id/email-hacking-tool/issues"
+  },
+  "homepage": "https://github.com/schiz0id/email-hacking-tool#readme",
+  "dependencies": {
+    "electron-prebuilt": "^1.2.2"
+  }
+}
